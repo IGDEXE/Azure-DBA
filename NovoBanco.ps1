@@ -15,7 +15,7 @@ $startIp = "0.0.0.0"
 $endIp = "0.0.0.0"
 
 # Mostra os valores gerados
-Write-host "Grupo de Recursos:" $resourceGroupName 
+Write-host "Grupo de Recursos:" $resourceGroupName
 Write-host "Senha:" $password  
 Write-host "Servidor:" $serverName
 
